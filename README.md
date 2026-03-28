@@ -25,7 +25,7 @@ It provides RESTful APIs for both the website frontend and Android application, 
 
 * Frontend: https://bunnuoccole.netlify.app/
 * Backend (Golang API): https://github.com/letan-165/family-restaurant-golang
-* Android: Internal application (private, used by the restaurant owner)
+* Android: Internal application (private, used by the restaurant owner) https://github.com/letan-165/family-restaurant-android
 
 ## Tech Stack
 
